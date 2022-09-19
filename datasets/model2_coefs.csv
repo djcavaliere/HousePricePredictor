@@ -1,0 +1,205 @@
+,0
+"('Roof Matl', 'WdShngl')",44960.87456361565
+"('Sale Type', 'Con')",34057.05540675278
+"('Mas Vnr Type', 'Stone')",26908.736799634324
+"('Functional', 'Typ')",25762.12354744986
+"('MS Zoning', 'RH')",24019.857028846694
+"('Neighborhood', 'StoneBr')",23598.61316303213
+"('Condition 1', 'PosN')",22475.386806775758
+"('Mas Vnr Type', 'None')",21421.954707307497
+"('Sale Type', 'CWD')",20348.735389381338
+"('Condition 2', 'PosA')",19219.926886620287
+"('MS Zoning', 'FV')",19171.470528450038
+"('Sale Type', 'New')",18860.71282743591
+"('Functional', 'Min2')",18795.132053597954
+"('Functional', 'Min1')",17255.53944180495
+"('Mas Vnr Type', 'BrkFace')",16655.572853817586
+"('Sale Type', 'ConLD')",16417.74909562034
+"('Foundation', 'Wood')",15042.701050744405
+"('Functional', 'Maj2')",14631.451519196238
+"('Sale Type', 'Oth')",13707.290816864299
+"('Bsmt Exposure', 'Gd')",11514.173622011956
+"('Exterior 1st', 'AsphShn')",11481.916861990634
+"('Exterior 1st', 'BrkFace')",11419.034168485061
+"('Roof Style', 'Mansard')",11251.61112682297
+"('Condition 1', 'Norm')",9914.669597317528
+"('Condition 1', 'PosA')",9725.211764218304
+"('Land Contour', 'HLS')",9219.821897124883
+"('Exterior 1st', 'CemntBd')",8863.101549140614
+"('MS Zoning', 'RL')",8654.237500384677
+"('Exterior 2nd', 'VinylSd')",7526.743659737429
+Overall Qual,7187.349917560298
+"('Lot Config', 'CulDSac')",6972.823926592365
+"('Street', 'Pave')",6613.512647935907
+"('Exterior 2nd', 'AsphShn')",6478.490345110574
+"('Foundation', 'PConc')",6406.100612795456
+Overall Cond,6197.889187924736
+"('Foundation', 'Stone')",6156.709869687758
+"('MS Zoning', 'RM')",6066.539894719767
+"('Electrical', 'FuseP')",6056.564912873218
+"('Condition 1', 'RRAn')",5910.881169301198
+"('Sale Type', 'WD ')",5898.793298770648
+"('Roof Style', 'Hip')",5785.428626136446
+"('House Style', '2.5Fin')",5553.748624411236
+"('Roof Style', 'Gable')",4216.977134170625
+"('Condition 1', 'Feedr')",4086.0858445135127
+"('Foundation', 'CBlock')",4069.4710876379795
+"('Paved Drive', 'Y')",3905.603532964127
+"('Exterior 1st', 'MetalSd')",3450.218589861984
+"('Exterior 2nd', 'Brk Cmn')",3296.5781239489534
+Half Bath,3257.1109188505593
+"('Land Contour', 'Lvl')",3202.9670799423293
+"('Exterior 2nd', 'Stucco')",3055.3527974211834
+"('House Style', '1Story')",2882.755959575854
+"('BsmtFin Type 1', 'Unf')",2850.9662891618814
+"('BsmtFin Type 1', 'GLQ')",2567.7090357284396
+"('Lot Config', 'Inside')",2329.1992913734807
+Baths,2233.5932025758334
+Yr Sold,1928.5846302111145
+Bsmt Full Bath,1702.5303200112073
+"('Heating QC', 'Gd')",1577.5528240013427
+TotRms AbvGrd,1507.1095378006416
+"('Sale Type', 'ConLw')",1463.1862430523013
+"('Condition 1', 'RRNe')",1390.8054536725626
+"('Neighborhood', 'NridgHt')",1290.8600922901512
+Fireplaces,1115.4028666582678
+"('BsmtFin Type 1', 'BLQ')",1068.453925903895
+Baths^2,1028.132089828142
+"('House Style', '1.5Unf')",756.8850796765754
+"('Functional', 'Mod')",600.6804873311618
+Bedroom AbvGr Overall Qual,388.8945679305969
+Full Bath,364.25329581982425
+Year Built,328.4794153183062
+"('Lot Config', 'FR2')",272.88837999309186
+Bedroom AbvGr^2,214.68852339907505
+"('Exterior 2nd', 'Wd Sdng')",186.06188293590597
+"('Bsmt Cond', 'TA')",119.92422701104383
+Year Remod/Add,82.94512129236438
+Overall Qual^2,80.55206561773602
+"('Lot Shape', 'IR2')",72.5619657832101
+Lot Frontage,63.19579040857117
+Screen Porch,60.19861932876995
+Pool Area,30.848441026987985
+Mas Vnr Area,30.73877135161024
+HouseSF,21.749659816579708
+Enclosed Porch,19.67678136165916
+Gr Liv Area,18.621124745783618
+2nd Flr SF,15.410141725958056
+BsmtFin SF 1,12.19619884738745
+1st Flr SF,11.688354579280258
+MS SubClass,11.542080294864865
+Open Porch SF,10.502198438180358
+Id,3.6614902132313296
+Total Bsmt SF,2.587325036511629
+Misc Val,1.767373426643644
+HouseSF Baths,1.190711856505004
+Wood Deck SF,1.0143112394225682
+Lot Area,0.8247463046280856
+Garage Area,0.5446267657376893
+HouseSF Overall Qual,0.17210066509403532
+PID,1.0835395513809557e-05
+"('Exter Cond', 'Po')",2.939486876130104e-09
+"('Exterior 2nd', 'CBlock')",2.673914423212409e-10
+HouseSF^2,-0.0003456780856936348
+HouseSF Bedroom AbvGr,-0.5706024519131461
+BsmtFin SF 2,-4.096537253695033
+Bsmt Unf SF,-5.509532697150917
+Low Qual Fin SF,-8.471973868426147
+3Ssn Porch,-66.23027005905698
+Mo Sold,-95.89336862500828
+Garage Cars,-117.4045988037516
+"('Bsmt Cond', 'Gd')",-299.2097375285795
+"('Heating QC', 'Fa')",-481.03870283930894
+"('Land Slope', 'Mod')",-631.3759556134207
+Baths Bedroom AbvGr,-693.2488824195494
+"('Exter Cond', 'TA')",-932.2017009892634
+"('Condition 2', 'Norm')",-976.7319682492678
+"('Exter Cond', 'Gd')",-987.6903475438269
+Baths Overall Qual,-1074.9904079111477
+"('Roof Matl', 'Tar&Grv')",-1123.672295031853
+"('Condition 1', 'RRAe')",-1272.6801412442294
+"('Roof Style', 'Gambrel')",-1492.6166372545918
+"('Electrical', 'SBrkr')",-1584.2870191309928
+"('Lot Shape', 'Reg')",-1842.740026196227
+"('Exterior 2nd', 'Wd Shng')",-2423.207165933987
+"('Bsmt Exposure', 'Mn')",-2669.15181857575
+Bsmt Half Bath,-2923.4917388799504
+"('BsmtFin Type 1', 'LwQ')",-2996.0178569067216
+"('Exterior 1st', 'WdShing')",-3019.6426489495893
+"('Central Air', 'Y')",-3028.3810999278116
+"('BsmtFin Type 2', 'GLQ')",-3255.481837816726
+"('Lot Config', 'FR3')",-3333.050852721063
+"('Bsmt Exposure', 'No')",-3372.547787610062
+"('Neighborhood', 'Greens')",-3439.1582668770843
+"('Heating QC', 'TA')",-3489.82321239894
+"('Electrical', 'FuseF')",-3603.7532524465496
+"('Exter Cond', 'Fa')",-3605.8344750626707
+"('House Style', 'SLvl')",-3671.992317897644
+"('Exterior 1st', 'Wd Sdng')",-3794.29686915304
+"('Sale Type', 'ConLI')",-3808.4577070633786
+"('Paved Drive', 'P')",-3825.2807193048384
+"('Condition 1', 'RRNn')",-4262.156515824945
+"('House Style', '2Story')",-4385.58999237721
+Bedroom AbvGr,-4487.059438016027
+"('House Style', 'SFoyer')",-4759.711403446267
+"('BsmtFin Type 1', 'Rec')",-4765.410743168218
+"('Exterior 2nd', 'Plywood')",-5150.469262438749
+"('Neighborhood', 'NoRidge')",-5302.668687344899
+"('Land Contour', 'Low')",-5535.679495581345
+"('Neighborhood', 'NPkVill')",-5706.225049254632
+"('Neighborhood', 'BrDale')",-5706.522351149674
+"('Exterior 2nd', 'HdBoard')",-6089.970431389031
+"('Heating', 'GasW')",-6589.541948190947
+"('Bsmt Qual', 'Po')",-6874.760764465176
+"('Exterior 1st', 'HdBoard')",-6897.447040798091
+"('Exterior 1st', 'Plywood')",-7023.79373241246
+"('Exterior 2nd', 'MetalSd')",-7327.046404555281
+"('House Style', '2.5Unf')",-8176.594768879387
+"('Exterior 2nd', 'CmentBd')",-8357.039542762448
+"('Neighborhood', 'Blueste')",-8931.44387527988
+"('Exterior 1st', 'Stucco')",-9444.364310120778
+"('Exterior 2nd', 'ImStucc')",-9612.392728042632
+"('Exterior 2nd', 'BrkFace')",-10204.956660190324
+"('Bsmt Qual', 'Fa')",-10854.481158912931
+"('Bldg Type', '2fmCon')",-11202.22292348211
+"('Bsmt Qual', 'TA')",-11773.745428947152
+"('Heating', 'Grav')",-11934.98427800366
+"('Bldg Type', 'Duplex')",-12373.905559378736
+"('Lot Shape', 'IR3')",-12648.691295588444
+Kitchen AbvGr,-12980.760677578317
+"('Roof Matl', 'WdShake')",-13314.05781633626
+"('Bsmt Qual', 'Gd')",-13486.051627821244
+"('BsmtFin Type 2', 'Unf')",-13809.305103898983
+"('BsmtFin Type 2', 'LwQ')",-14117.923403706036
+"('Exter Qual', 'Fa')",-14138.666487555935
+"('Exterior 1st', 'VinylSd')",-14364.680561959034
+"('Land Slope', 'Sev')",-15038.227254424026
+"('BsmtFin Type 2', 'BLQ')",-15290.618866141083
+"('BsmtFin Type 2', 'Rec')",-16455.845721664544
+"('Exterior 1st', 'BrkComm')",-18662.239967395504
+"('Kitchen Qual', 'TA')",-19468.752150292632
+"('Neighborhood', 'Crawfor')",-19664.165339527528
+"('Neighborhood', 'MeadowV')",-19795.921748762004
+"('Kitchen Qual', 'Gd')",-20788.653758204066
+"('Exter Qual', 'Gd')",-21285.73140540184
+"('Neighborhood', 'Veenker')",-21532.404701600597
+"('Kitchen Qual', 'Fa')",-24407.870897122455
+"('Exter Qual', 'TA')",-24450.81106308806
+"('Neighborhood', 'BrkSide')",-26016.3340958657
+"('Neighborhood', 'Somerst')",-26153.94971352327
+"('Bldg Type', 'TwnhsE')",-27702.46872824099
+"('Neighborhood', 'Gilbert')",-28675.919021728605
+"('Neighborhood', 'Sawyer')",-29479.569530705507
+"('Neighborhood', 'SawyerW')",-30697.791985421176
+"('Bldg Type', 'Twnhs')",-31991.777089359883
+"('Neighborhood', 'Timber')",-32429.44107129747
+"('Neighborhood', 'CollgCr')",-33371.23991801987
+"('Neighborhood', 'Mitchel')",-34390.926576290265
+"('Neighborhood', 'IDOTRR')",-34543.935516665755
+"('Roof Style', 'Shed')",-34757.24519057622
+"('Neighborhood', 'NAmes')",-34994.94845151076
+"('Neighborhood', 'OldTown')",-37013.11069132558
+"('Neighborhood', 'Edwards')",-38050.45264483767
+"('Neighborhood', 'SWISU')",-38569.95259372001
+"('Neighborhood', 'NWAmes')",-39069.1539115651
+"('Neighborhood', 'ClearCr')",-45371.625976386065
