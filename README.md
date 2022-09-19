@@ -25,7 +25,7 @@ Correlation:
 One of the key principles of building a successful linear regression model is identifying feature variables that demonstrate significant correlation with the target variable. In analyzing the relationship between the feature and target variables I identified the following variables with the highest correlation with Sale Price (Overall Quality, Square Feet, Bedrooms, Garage Cars, Year Built) These features will be key to emphasize within our model in order to generate the most accurate predictions.
 
 Outliers:
-![Scatters](scatters.png)
+![Scatters](https://git.generalassemb.ly/dcavaliere/project-2/blob/master/img/scatters.png)
 
 In the Scatter Plots above I identified two outlier homes that could potentially adversely impact the accuracy of our model. As you can see in the lower right hand corner of our square feet to price plots there are two homes with exceptionally large square footage but relatively low Sale Prices. After removing these two outliers our model should fit a more accurate line through the dataset.
 
